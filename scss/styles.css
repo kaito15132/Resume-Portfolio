@@ -81,6 +81,14 @@ body {
   margin-bottom: 20px;
   font-weight: 400;
 }
+.profile h3.summary-title {
+  color: #66cc99;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
 .profile li {
   margin-bottom: 10px;
 }

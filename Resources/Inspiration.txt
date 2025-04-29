@@ -10,3 +10,12 @@ Challenges:
     1. Creating the certification title. Something that seemed so simple as copy and pasting the other titles up taking most of my night to figure out.
         First I had to figure out how SCSS worked, download the live compiler extension for VS, and then make a decision on how I wanted the file hierarchy to work
         since maintaining a css folder just added extra steps to save.
+
+
+
+Reflection:
+    1. The 2 areas I feel that will be the toughest for me is figuring out networking and architecture.
+    2. I've already taken my AZ-900 cert, so I'm looking to do my AZ-104 possibly a month after finishing 
+        this challenge.
+    3. I want to be more exposed to Linux administration because the only time I've interacted with it was when
+        I built bitcoin mining computers.
