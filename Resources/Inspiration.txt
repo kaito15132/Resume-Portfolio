@@ -1,0 +1,12 @@
+HTML template from: https://codepen.io/mariosmaselli/pen/popWjr
+
+Things I've learned:
+    1. Having a file hierarchy is nice until you realize that scss saves within its current folder and not into an additional css folder. 
+
+
+
+
+Challenges: 
+    1. Creating the certification title. Something that seemed so simple as copy and pasting the other titles up taking most of my night to figure out.
+        First I had to figure out how SCSS worked, download the live compiler extension for VS, and then make a decision on how I wanted the file hierarchy to work
+        since maintaining a css folder just added extra steps to save.

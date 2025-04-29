@@ -14,11 +14,6 @@ body {
   line-height: 1.5em;
 }
 
-a {
-  color: #66cc99;
-  text-decoration: none;
-}
-
 .clearfix::after, .clearfix::before {
   content: " ";
   display: table;
@@ -78,8 +73,40 @@ a {
     padding-top: 20px;
   }
 }
+.profile h3.certification-title {
+  color: #66cc99;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
 .profile li {
   margin-bottom: 10px;
+}
+.profile li a.complete {
+  color: #66cc99;
+  text-decoration: none;
+}
+.profile li a.complete:visited {
+  color: #66cc99;
+  text-decoration: none;
+}
+.profile li a.in-progress {
+  color: #FF7A00;
+  text-decoration: none;
+}
+.profile li a.in-progress:visited {
+  color: #FF7A00;
+  text-decoration: none;
+}
+.profile li a.website-link {
+  color: #66cc99;
+  text-decoration: none;
+}
+.profile li a.website-link {
+  color: #66cc99;
+  text-decoration: none;
 }
 .profile .picture-resume-wrapper {
   width: 40%;
