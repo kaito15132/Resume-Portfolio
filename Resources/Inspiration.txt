@@ -2,6 +2,12 @@ HTML template from: https://codepen.io/mariosmaselli/pen/popWjr
 
 Things I've learned:
     1. Having a file hierarchy is nice until you realize that scss saves within its current folder and not into an additional css folder. 
+    2. How to set up a storage account
+    3. How to upload and host a static webpage 
+    4. How to enable webpage metrics
+    5. How to register resource providers
+    6. I created a CDN profile endpoint
+    7. 
 
 
 
