@@ -9,6 +9,14 @@ Things I've learned:
     6. I created a CDN profile endpoint
     7. I created a domain (cloudwithethan.com)
     8. I added a recordset to the domain (www.cloudwithethan.com)
+    9. I learned that I had to actually buy the domain before I can use it in Azure 
+        An issue I got stuck on for awhile was adding a custom domain to Azure. I had already set up a CDN endpoint for my website, but most 
+        of the online documentation for registering a custom domain said to use the static website address or a blob storage address. Once I realized that,
+        and made the change on GoDaddy,  I was able to use powershell to register the custom domain on Azure. Now, the embarassing part was trying to test 
+        whether the domain was working or not. After entering the address (cloudwithethan.com) it kept bringing me to 
+        the GoDaddy default landing page and I couldn't figure out why. It took me awhile to realize that at the end of the 
+        Powershell command, there was a parameter that determines whether or not to use the subdomain and I had marked it as true. 
+        That was my whole issue with getting my custom domain added.
 
 
 
