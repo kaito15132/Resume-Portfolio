@@ -7,7 +7,8 @@ Things I've learned:
     4. How to enable webpage metrics
     5. How to register resource providers
     6. I created a CDN profile endpoint
-    7. 
+    7. I created a domain (cloudwithethan.com)
+    8. I added a recordset to the domain (www.cloudwithethan.com)
 
 
 
