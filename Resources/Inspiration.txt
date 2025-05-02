@@ -36,3 +36,11 @@ Reflection:
         this challenge.
     3. I want to be more exposed to Linux administration because the only time I've interacted with it was when
         I built bitcoin mining computers.
+
+
+    Page 75.
+    1. What aspect of Chunk 1's work did you find the most difficult?
+    2. Note one or two problems you overcame to get the static site deployed; include the error messages or screenshots of the issues, and write down what you 
+        did to fix them.
+    3. What's something you'd have done differently, or added, if you'd had more time?
+    4. If you tried one of the mods, note what you did, and how it's an improvement over the basic challenge requirements. 
