@@ -17,6 +17,8 @@ Things I've learned:
         the GoDaddy default landing page and I couldn't figure out why. It took me awhile to realize that at the end of the 
         Powershell command, there was a parameter that determines whether or not to use the subdomain and I had marked it as true. 
         That was my whole issue with getting my custom domain added.
+    10. I learned the process of how to create a cosmos DB account. It looks like a serverless capacity account wasn't available for the 2 regions I had available
+        so I had to put in a support request to get access to a region that did have it. 
 
 
 

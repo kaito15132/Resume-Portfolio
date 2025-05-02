@@ -84,15 +84,11 @@ body {
       padding-top:20px;
     } 
   }
-  h3.certification-title {
-    color:$linkColor;
+  h2 {
     text-align:left;
-    text-transform:uppercase;
-    font-size:1.2em;
     margin-bottom:20px;
-    font-weight:400;
   }
-  h3.summary-title {
+  h3.profile-title {
     color:$linkColor;
     text-align:left;
     text-transform:uppercase;
@@ -192,7 +188,7 @@ body {
     text-align:left;
     font-weight:300;
   }
-  .contact-presentation {
+  .profile-presentation {
     text-align:left;
     font-weight:300;
     margin-top:100px;

@@ -73,15 +73,11 @@ body {
     padding-top: 20px;
   }
 }
-.profile h3.certification-title {
-  color: #66cc99;
+.profile h2 {
   text-align: left;
-  text-transform: uppercase;
-  font-size: 1.2em;
   margin-bottom: 20px;
-  font-weight: 400;
 }
-.profile h3.summary-title {
+.profile h3.profile-title {
   color: #66cc99;
   text-align: left;
   text-transform: uppercase;
@@ -204,20 +200,20 @@ body {
   text-align: left;
   font-weight: 300;
 }
-.profile .contact-presentation {
+.profile .profile-presentation {
   text-align: left;
   font-weight: 300;
   margin-top: 100px;
   margin-bottom: 100px;
 }
 @media (max-width: 1200px) {
-  .profile .contact-presentation {
+  .profile .profile-presentation {
     margin-top: 70px;
     margin-bottom: 70px;
   }
 }
 @media (max-width: 850px) {
-  .profile .contact-presentation {
+  .profile .profile-presentation {
     margin-top: 50px;
     margin-bottom: 50px;
   }
